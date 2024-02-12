@@ -1,4 +1,4 @@
-package com.example.gaugecluster_api.exception;
+package com.example.TAC_api.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

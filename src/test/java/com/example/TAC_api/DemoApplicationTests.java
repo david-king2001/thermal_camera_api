@@ -1,4 +1,4 @@
-package com.example.gaugecluster_api;
+package com.example.TAC_api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
